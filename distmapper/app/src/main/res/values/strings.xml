@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Distmapper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Instructions</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
